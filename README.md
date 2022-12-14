@@ -1,5 +1,4 @@
-Hey, I'm Upsylon, a french highschool programmer currently leanring Java and Html
-Nice to mmet you!
+Hey, I'm Upsylon, a french highschool programmer currently leanring Java and Html, nice to meet you!
 
 <!---
 Upsylon3/Upsylon3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
